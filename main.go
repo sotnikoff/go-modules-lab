@@ -6,6 +6,7 @@ import (
 	"modlab/mathx"
 
 	"github.com/google/uuid"
+	"github.com/sotnikoff/greeter"
 )
 
 func main() {
@@ -13,4 +14,5 @@ func main() {
 	fmt.Println(id, err)
 	fmt.Println(uuid.NewString())
 	fmt.Println(mathx.Double(21))
+	fmt.Println(greeter.Hello("Михаил"))
 }

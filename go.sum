@@ -2,3 +2,5 @@ github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
 github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/sotnikoff/greeter v0.1.0 h1:x6M6F1ZjEjH8h3G85JCpfaWEbTT58k2W6/iwVqW8+SY=
+github.com/sotnikoff/greeter v0.1.0/go.mod h1:fhb+Rlx7FTWXLRcjiJOKEyyS/DFUiqt2am8HwuTNkOE=
